@@ -1,0 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border:auto;
+    border-color: black;
+    
+}
+.container{
+    background-color: hotpink;
+    border-radius: 50px;
+    width: 707px;
+    height: 500px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+h1{
+    align-items: center;
+    font-size: 100px;
+    color: aliceblue;
+    margin-left: 165px;
+}
+p{
+    color: aliceblue;
+    margin-left: 305px;
+}
+h4{
+    color: aliceblue;
+    text-align: center;
+}
+h5{
+    color: aliceblue;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    margin-right: 160px;
+}
